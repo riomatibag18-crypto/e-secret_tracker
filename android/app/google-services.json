@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465158026508",
+    "project_id": "e-secret-tracker",
+    "storage_bucket": "e-secret-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465158026508:android:17362a6f4612f668afc529",
+        "android_client_info": {
+          "package_name": "com.ebike.e_secret_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDifXZgS7gsEsvKs_jN3FT0De9JdOTstD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
